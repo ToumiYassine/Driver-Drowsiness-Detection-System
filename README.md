@@ -12,4 +12,4 @@ Driver Drowsiness Detection System :
 3-Develop code using the opencv library to detect the state of eyes and integrate a counter and an alert.
 
 
-4-Deoploy using Streamlit.
+4-Deploy using Streamlit.
